@@ -1,3 +1,7 @@
+# Copyright (C) 2024-2025 Shuyuan Zheng
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+
 import math
 import numpy as np
 import pandas as pd

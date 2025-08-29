@@ -1,3 +1,7 @@
+# Copyright (C) 2024-2025 Shuyuan Zheng
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+
 import os
 import time
 import numpy as np
@@ -16,7 +20,7 @@ import datetime
 #     "gamma": 0.4,
 #     "gamma1": 0.2,
 #     "gamma2": 0.1,
-#     "categorical_scale": 1.0, # 设置为0的话row splitting就不考虑categorical data
+#     "categorical_scale": 1.0,
 #     "categorical_distance": "weighted hamming",
 #     "leaf_noise_type": "Geometric",
 #     "nonnegative_hist_method": "clipping",
